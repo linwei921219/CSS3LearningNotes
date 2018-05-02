@@ -1,0 +1,20 @@
+span {
+	margin: auto;
+	display: block;
+	text-align: center;
+	width: 100px;
+	height: 70px;
+	background: lightblue;
+	transition: all ease-out 2s 0.2s;
+}
+
+.active {
+	width: 300px;
+	color: lightblue;
+	background: darkblue;
+}
+
+.btn {
+	margin: auto;
+	display: block;
+}
